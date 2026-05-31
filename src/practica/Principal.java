@@ -4,7 +4,7 @@ public class Principal {
 
     public static void main(String[] args) {
 
-        System.out.println("Practica de Git y GitHub - Semana 2");
+    	System.out.println("Cambio realizado por colaborador");
 
     }
 
